@@ -1,3 +1,7 @@
+#Create By Prakash Kumar
+#On react project I have fetch the data from the openweathermap 
+# Display the today info of the weather and next 6 days info of the weather
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
